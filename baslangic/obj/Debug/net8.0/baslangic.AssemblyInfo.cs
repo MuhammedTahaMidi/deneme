@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("baslangic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3e4374319bc125302c8441c587d6ef629ef2420")]
 [assembly: System.Reflection.AssemblyProductAttribute("baslangic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("baslangic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

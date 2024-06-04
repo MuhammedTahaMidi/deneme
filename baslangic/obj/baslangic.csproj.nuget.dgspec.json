@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Taha\\Source\\Repos\\deneme\\baslangic\\baslangic.csproj": {}
+    "C:\\Users\\Taha\\source\\repos\\deneme\\baslangic\\baslangic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Taha\\Source\\Repos\\deneme\\baslangic\\baslangic.csproj": {
+    "C:\\Users\\Taha\\source\\repos\\deneme\\baslangic\\baslangic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Taha\\Source\\Repos\\deneme\\baslangic\\baslangic.csproj",
+        "projectUniqueName": "C:\\Users\\Taha\\source\\repos\\deneme\\baslangic\\baslangic.csproj",
         "projectName": "baslangic",
-        "projectPath": "C:\\Users\\Taha\\Source\\Repos\\deneme\\baslangic\\baslangic.csproj",
+        "projectPath": "C:\\Users\\Taha\\source\\repos\\deneme\\baslangic\\baslangic.csproj",
         "packagesPath": "C:\\Users\\Taha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Taha\\Source\\Repos\\deneme\\baslangic\\obj\\",
+        "outputPath": "C:\\Users\\Taha\\source\\repos\\deneme\\baslangic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Taha\\AppData\\Roaming\\NuGet\\NuGet.Config",
